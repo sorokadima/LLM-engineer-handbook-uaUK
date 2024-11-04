@@ -1,9 +1,9 @@
-# LLM-frameworks
-🔥 Large Language Models(LLM) have taken the ~~NLP community~~ ~~AI community~~ **the Whole World** by storm. A curated list of Large Language Model frameworks, covering model training, serving, fine-tuning, and building LLM applications.
+# LLM-engineer-handbook
+🔥 Large Language Models(LLM) have taken the ~~NLP community~~ ~~AI community~~ **the Whole World** by storm. A curated list of Large Language Model frameworks and tutorials, covering model training, serving, fine-tuning, and building LLM applications.
 
 ## Table of Content
 
-- [LLM-frameworks](#llm-frameworks)
+- [LLM-engineer-handbook](#llm-frameworks)
   - [Applications](#applications)
   - [Pretraining](#pretraining)
   - [Fine-tuning](#fine-tuning)
