@@ -1,5 +1,5 @@
 # LLM-frameworks
-A curated list of Large Language Model frameworks, covering model training, serving, fine-tuning, and building LLM applications.
+🔥 Large Language Models(LLM) have taken the ~~NLP community~~ ~~AI community~~ **the Whole World** by storm. A curated list of Large Language Model frameworks, covering model training, serving, fine-tuning, and building LLM applications.
 
 ## Table of Content
 
@@ -68,6 +68,16 @@ A curated list of Large Language Model frameworks, covering model training, serv
 
 - [LLM Agents MOOC](https://youtube.com/playlist?list=PLS01nW3RtgopsNLeM936V4TNSsvvVglLc&si=LAonD5VfG9jFAOuE) - A playlist of 11 lectures by the Berkeley RDI Center on Decentralization & AI, featuring guest speakers like Yuandong Tian, Graham Neubig, Omar Khattab, and others, covering core topics on Large Language Model agents.
 
+
+## Contributing
+
+This is an active repository and your contributions are always welcome!
+
+I will keep some pull requests open if I'm not sure if they are awesome for LLM frameworks, you could vote for them by adding 👍 to them.
+
+---
+
+If you have any question about this opinionated list, do not hesitate to contact me https://www.linkedin.com/in/li-yin-ai/.
 
 
 
