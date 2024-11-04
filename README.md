@@ -1,5 +1,6 @@
 # LLM-engineer-handbook
-🔥 Large Language Models(LLM) have taken the ~~NLP community~~ ~~AI community~~ **the Whole World** by storm. A curated list of Large Language Model frameworks and tutorials, covering model training, serving, fine-tuning, and building LLM applications.
+🔥 Large Language Models(LLM) have taken the ~~NLP community~~ ~~AI community~~ **the Whole World** by storm. 
+The LLM space is complicated! This repo provides a curated list to help you navigate; it includes a collection of Large Language Model frameworks and tutorials, covering model training, serving, fine-tuning, and building LLM applications.
 
 ## Table of Content
 
