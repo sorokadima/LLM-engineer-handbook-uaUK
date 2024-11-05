@@ -15,20 +15,24 @@ The LLM space is complicated! This repo provides a curated list to help you navi
 
 ## Applications
 
-### Build & Auto-optimize
+**Build & Auto-optimize**
 
 - [AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - AdalFlow: The PyTorch library for LLM applications.
 - [dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models.
 
-### Build 
+**Build**
+
 - [LlamaIndex](https://github.com/jerryjliu/llama_index) — A Python library for augmenting LLM apps with data.
 - [LangChain](https://github.com/hwchase17/langchain) — A popular Python/JavaScript library for chaining sequences of language model prompts.
 
-### Prompt Optimization
+**Prompt Optimization**
+
 - [AutoPrompt](https://github.com/Eladlev/AutoPrompt) - A framework for prompt tuning using Intent-based Prompt Calibration
 - [PromptFify](https://github.com/promptslab/Promptify) - A library for prompt engineering that simplifies NLP tasks (e.g., NER, classification) using LLMs like GPT.
 
+**Others**
 
+- [LiteLLM](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format.
 
 
 ## Pretraining
@@ -55,6 +59,9 @@ The LLM space is complicated! This repo provides a curated list to help you navi
 
 - [vllm](https://github.com/vllm-project/vllm) - An optimized, high-throughput serving engine for large language models, designed to efficiently handle massive-scale inference with reduced latency.
 
+- [sglang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
+
+
 ## Datasets
 - [Datasets](https://huggingface.co/docs/datasets/en/index) - A vast collection of ready-to-use datasets for machine learning tasks, including NLP, computer vision, and audio, with tools for easy access, filtering, and preprocessing.
 
@@ -67,7 +74,13 @@ The LLM space is complicated! This repo provides a curated list to help you navi
 
 ### Agent
 
+**Lectures**
+
 - [LLM Agents MOOC](https://youtube.com/playlist?list=PLS01nW3RtgopsNLeM936V4TNSsvvVglLc&si=LAonD5VfG9jFAOuE) - A playlist of 11 lectures by the Berkeley RDI Center on Decentralization & AI, featuring guest speakers like Yuandong Tian, Graham Neubig, Omar Khattab, and others, covering core topics on Large Language Model agents.
+
+**Projects**
+
+- [OpenHands](https://github.com/All-Hands-AI/OpenHands) - Open source agents for developers by [AllHands](https://www.all-hands.dev/).
 
 
 ## Contributing
