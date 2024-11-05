@@ -10,7 +10,7 @@ The LLM space is complicated! This repo provides a curated list to help you navi
 - [Serving](#serving)
 - [Datasets](#datasets)
 - [Learn LLM Applications](#learn-llm-applications)
-
+- [Educators](#educators)
 
 ## Applications
 
@@ -79,19 +79,25 @@ Fine-tuning
 
 - [CS224N](https://www.youtube.com/watch?v=rmVRLeJRkl4) - Stanford course covering NLP fundamentals, LLMs, and PyTorch-based model building, led by Chris Manning and Shikhar Murty.
 
+- [LLM-driven Data Engineering](https://github.com/DataExpert-io/llm-driven-data-engineering) -  A playlist of 6 lectures by [Zach Wilson](https://www.linkedin.com/in/eczachly) on how LLMs will impact data pipeline development 
+
+
 ### Agent
 
 **Lectures**
 
 - [LLM Agents MOOC](https://youtube.com/playlist?list=PLS01nW3RtgopsNLeM936V4TNSsvvVglLc&si=LAonD5VfG9jFAOuE) - A playlist of 11 lectures by the Berkeley RDI Center on Decentralization & AI, featuring guest speakers like Yuandong Tian, Graham Neubig, Omar Khattab, and others, covering core topics on Large Language Model agents.
 
-- [LLM-driven Data Engineering](https://github.com/DataExpert-io/llm-driven-data-engineering) -  A playlist of 6 lectures by [Zach Wilson](https://www.linkedin.com/in/eczachly) on how LLMs will impact data pipeline development 
-
-
 **Projects**
 
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands) - Open source agents for developers by [AllHands](https://www.all-hands.dev/).
 
+### Educators
+
+- [Li Yin](https://www.linkedin.com/in/li-yin-ai)
+- [Chip Huyen](https://www.linkedin.com/in/chiphuyen)
+- [Damien Benveniste, PhD](https://www.linkedin.com/in/damienbenveniste/)
+- [Jim Fan](https://www.linkedin.com/in/drjimfan/)
 
 ## Contributing
 
@@ -101,7 +107,7 @@ I will keep some pull requests open if I'm not sure if they are awesome for LLM 
 
 ---
 
-If you have any question about this opinionated list, do not hesitate to contact me https://www.linkedin.com/in/li-yin-ai/.
+If you have any question about this opinionated list, do not hesitate to contact [Li Yin](https://www.linkedin.com/in/li-yin-ai)
 
 
 
