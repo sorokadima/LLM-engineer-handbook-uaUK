@@ -117,6 +117,11 @@ Reasoning & Planning
 - [Damien Benveniste, PhD](https://www.linkedin.com/in/damienbenveniste/)
 - [Jim Fan](https://www.linkedin.com/in/drjimfan/)
 - [Li Yin](https://www.linkedin.com/in/li-yin-ai)
+- [Paul Iusztin](https://www.linkedin.com/in/pauliusztin/) LLMOps
+- [Armand Ruiz](https://www.linkedin.com/in/armand-ruiz/) AI product at IBM
+- [Pascal Biese](https://www.linkedin.com/in/pascalbiese/) Daily LLM papers
+- [Maxime Labonne](https://www.linkedin.com/in/maxime-labonne/) LLM fine-tuning
+
 
 
 ## Contributing
