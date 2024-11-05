@@ -12,7 +12,7 @@ The LLM space is complicated! This repo provides a curated list to help you navi
 - [Benchmarks](#benchmarks)
 - [Learn LLM Applications](#learn-llm-applications)
 - [Understand LLM](#understand-llm)
-- [Educators](#educators)
+- [Social Accounts](#social-accounts)
 
 ## Applications
 
@@ -111,12 +111,13 @@ Reasoning & Planning
 
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands) - Open source agents for developers by [AllHands](https://www.all-hands.dev/).
 
-## Educators
+## Social Accounts
 
-- [Li Yin](https://www.linkedin.com/in/li-yin-ai)
 - [Chip Huyen](https://www.linkedin.com/in/chiphuyen)
 - [Damien Benveniste, PhD](https://www.linkedin.com/in/damienbenveniste/)
 - [Jim Fan](https://www.linkedin.com/in/drjimfan/)
+- [Li Yin](https://www.linkedin.com/in/li-yin-ai)
+
 
 ## Contributing
 
