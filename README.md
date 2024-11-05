@@ -4,13 +4,12 @@ The LLM space is complicated! This repo provides a curated list to help you navi
 
 ## Table of Content
 
-- [LLM-engineer-handbook](#llm-frameworks)
-  - [Applications](#applications)
-  - [Pretraining](#pretraining)
-  - [Fine-tuning](#fine-tuning)
-  - [Serving](#serving)
-  - [Datasets](#datasets)
-  - [Learn LLM Applications](#learn-llm-applications)
+- [Applications](#applications)
+- [Pretraining](#pretraining)
+- [Fine-tuning](#fine-tuning)
+- [Serving](#serving)
+- [Datasets](#datasets)
+- [Learn LLM Applications](#learn-llm-applications)
 
 
 ## Applications
