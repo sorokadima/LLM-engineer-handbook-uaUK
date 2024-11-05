@@ -93,7 +93,7 @@ Fine-tuning
 
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands) - Open source agents for developers by [AllHands](https://www.all-hands.dev/).
 
-### Educators
+## Educators
 
 - [Li Yin](https://www.linkedin.com/in/li-yin-ai)
 - [Chip Huyen](https://www.linkedin.com/in/chiphuyen)
