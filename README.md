@@ -9,6 +9,7 @@ The LLM space is complicated! This repo provides a curated list to help you navi
 - [Fine-tuning](#fine-tuning)
 - [Serving](#serving)
 - [Datasets](#datasets)
+- [Benchmarks](#benchmarks)
 - [Learn LLM Applications](#learn-llm-applications)
 - [Educators](#educators)
 
@@ -72,6 +73,12 @@ Fine-tuning
 
 - [LLMDataHub](https://github.com/Zjh-819/LLMDataHub) - A quick guide (especially) for trending instruction finetuning datasets
 - [LLM Datasets](https://github.com/mlabonne/llm-datasets) - High-quality datasets, tools, and concepts for LLM fine-tuning.
+
+## Benchmarks
+
+Agent
+
+- [TravelPlanner](https://osu-nlp-group.github.io/TravelPlanner/) - [paper](https://arxiv.org/pdf/2402.01622) A Benchmark for Real-World Planning with Language Agents
 
 ## Learn LLM Applications
 
