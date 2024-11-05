@@ -63,7 +63,15 @@ The LLM space is complicated! This repo provides a curated list to help you navi
 
 
 ## Datasets
+
+Use Cases
+
 - [Datasets](https://huggingface.co/docs/datasets/en/index) - A vast collection of ready-to-use datasets for machine learning tasks, including NLP, computer vision, and audio, with tools for easy access, filtering, and preprocessing.
+
+Fine-tuning
+
+- [LLMDataHub](https://github.com/Zjh-819/LLMDataHub) - A quick guide (especially) for trending instruction finetuning datasets
+- [LLM Datasets](https://github.com/mlabonne/llm-datasets) - High-quality datasets, tools, and concepts for LLM fine-tuning.
 
 ## Learn LLM Applications
 
