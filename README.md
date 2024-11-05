@@ -11,6 +11,7 @@ The LLM space is complicated! This repo provides a curated list to help you navi
 - [Datasets](#datasets)
 - [Benchmarks](#benchmarks)
 - [Learn LLM Applications](#learn-llm-applications)
+- [Understand LLM](#understand-llm)
 - [Educators](#educators)
 
 ## Applications
@@ -79,6 +80,16 @@ Fine-tuning
 Agent
 
 - [TravelPlanner](https://osu-nlp-group.github.io/TravelPlanner/) - [paper](https://arxiv.org/pdf/2402.01622) A Benchmark for Real-World Planning with Language Agents
+
+## Understand LLM
+
+Prompt Engineering
+
+- [Brown, Tom B. "Language models are few-shot learners." arXiv preprint arXiv:2005.14165 (2020).](https://rosanneliu.com/dlctfs/dlct_200724.pdf)
+
+Reasoning & Planning
+
+- [Kambhampati, Subbarao, et al. "LLMs can't plan, but can help planning in LLM-modulo frameworks." arXiv preprint arXiv:2402.01817 (2024).](https://arxiv.org/abs/2402.01817)
 
 ## Learn LLM Applications
 
