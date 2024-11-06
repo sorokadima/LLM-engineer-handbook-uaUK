@@ -48,7 +48,7 @@ The LLM space is complicated! This repo provides a curated list to help you navi
 
 - [Transformers](https://huggingface.co/docs/transformers/en/installation) - Hugging Face Transformers is a popular library for Natural Language Processing (NLP) tasks, including fine-tuning large language models.
 - [Unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.2, Mistral, Phi-3.5 & Gemma 2-5x faster with 80% less memory!
-- [litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to fine-tune, pretrain and deploy at scale.
+- [LitGPT](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune, and deploy at scale.
 
 ## Serving
 
