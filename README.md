@@ -133,6 +133,10 @@ Reasoning & Planning
 - [swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
 - [AutoGen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 by Microsoft.
 
+### Auto-optimization
+
+- [TextGrad](https://github.com/zou-group/textgrad) - Automatic ''Differentiation'' via Text -- using large language models to backpropagate textual gradients.
+
 ## Social Accounts
 
 - [Chip Huyen](https://www.linkedin.com/in/chiphuyen)
