@@ -26,6 +26,7 @@ The LLM space is complicated! This repo provides a curated list to help you navi
 
 - [LlamaIndex](https://github.com/jerryjliu/llama_index) — A Python library for augmenting LLM apps with data.
 - [LangChain](https://github.com/hwchase17/langchain) — A popular Python/JavaScript library for chaining sequences of language model prompts.
+- [Haystack](https://github.com/deepset-ai/haystack) - Python framework that allows you to build applications powered by LLMs
 
 **Prompt Optimization**
 
@@ -44,6 +45,7 @@ The LLM space is complicated! This repo provides a curated list to help you navi
 - [JAX](https://github.com/jax-ml/jax) - Google’s library for high-performance computing and automatic differentiation.
 - [tinygrad](https://github.com/tinygrad/tinygrad) - A minimalistic deep learning library with a focus on simplicity and educational use, created by George Hotz.
 - [micrograd](https://github.com/karpathy/micrograd) - A simple, lightweight autograd engine for educational purposes, created by Andrej Karpathy.
+
 ## Fine-tuning
 
 - [Transformers](https://huggingface.co/docs/transformers/en/installation) - Hugging Face Transformers is a popular library for Natural Language Processing (NLP) tasks, including fine-tuning large language models.
@@ -65,6 +67,10 @@ The LLM space is complicated! This repo provides a curated list to help you navi
 - [sglang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
 
 - [LitServe](https://github.com/Lightning-AI/LitServe) - LitServe is a lightning-fast serving engine for any AI model of any size. Flexible. Easy. Enterprise-scale.
+
+## Prompt Management
+
+- [Opik](https://github.com/comet-ml/opik) - Opik is an open-source platform for evaluating, testing and monitoring LLM applications
 
 ## Datasets
 
@@ -110,6 +116,8 @@ Reasoning & Planning
 
 ### Applications
 
+- [Decoding ML](https://decodingml.substack.com/) - Content on building production GenAI, RecSys and MLOps applications.
+
 #### General
 
 - [AdalFlow documentation](https://adalflow.sylph.ai/) - Includes tutorials from building RAG, Agent, to LLM evaluation and fine-tuning.
@@ -143,7 +151,7 @@ Reasoning & Planning
 - [Damien Benveniste, PhD](https://www.linkedin.com/in/damienbenveniste/)
 - [Jim Fan](https://www.linkedin.com/in/drjimfan/)
 - [Li Yin](https://www.linkedin.com/in/li-yin-ai)
-- [Paul Iusztin](https://www.linkedin.com/in/pauliusztin/) LLMOps
+- [Paul Iusztin](https://www.linkedin.com/in/pauliusztin/) LLM engineering & LLMOps
 - [Armand Ruiz](https://www.linkedin.com/in/armand-ruiz/) AI product at IBM
 - [Pascal Biese](https://www.linkedin.com/in/pascalbiese/) Daily LLM papers
 - [Maxime Labonne](https://www.linkedin.com/in/maxime-labonne/) LLM fine-tuning
