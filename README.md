@@ -113,10 +113,9 @@ Reasoning & Planning
 
 - [Chip's Blog](https://huyenchip.com/blog/) - Chip Huyen's blog on training LLMs, including the latest research, tutorials, and best practices.
 - [Lil'Log](https://lilianweng.github.io/) - Lilian Weng(OpenAI)'s blog on machine learning, deep learning, and AI, with a focus on LLMs and NLP.
+- [Decoding ML](https://decodingml.substack.com/) - Content on building production GenAI, RecSys and MLOps applications.
 
 ### Applications
-
-- [Decoding ML](https://decodingml.substack.com/) - Content on building production GenAI, RecSys and MLOps applications.
 
 #### General
 
