@@ -115,6 +115,11 @@ Reasoning & Planning
 - [Lil'Log](https://lilianweng.github.io/) - Lilian Weng(OpenAI)'s blog on machine learning, deep learning, and AI, with a focus on LLMs and NLP.
 - [Decoding ML](https://decodingml.substack.com/) - Content on building production GenAI, RecSys and MLOps applications.
 
+### Books 
+- [Build a Large Language Model from Scratch](https://www.manning.com/books/build-a-large-language-model-from-scratch) by Sebastian Raschka
+- [Hands-On Large Language Models: Build, Tune, and Apply LLMs](https://www.amazon.com/Hands-Large-Language-Models-Understanding/dp/1098150961) by Jay Alammar , Maarten Grootendorst 
+- [LLM Engineer's Handbook: Master the art of engineering large language models from concept to production](https://www.amazon.com/dp/1836200072?ref=cm_sw_r_cp_ud_dp_ZFR4XZPT7EY41ZE1M5X9&ref_=cm_sw_r_cp_ud_dp_ZFR4XZPT7EY41ZE1M5X9&social_share=cm_sw_r_cp_ud_dp_ZFR4XZPT7EY41ZE1M5X9) by   Paul Iusztin , Maxime Labonne 
+
 ### Applications
 
 #### General
@@ -154,6 +159,7 @@ Reasoning & Planning
 - [Armand Ruiz](https://www.linkedin.com/in/armand-ruiz/) AI product at IBM
 - [Pascal Biese](https://www.linkedin.com/in/pascalbiese/) Daily LLM papers
 - [Maxime Labonne](https://www.linkedin.com/in/maxime-labonne/) LLM fine-tuning
+- [Sebastian Raschka](https://www.linkedin.com/in/sebastianraschka/) Blogs :Ahead of AI
 
 
 
