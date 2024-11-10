@@ -16,6 +16,7 @@ The LLM space is complicated! This repo provides a curated list to help you navi
   - [Understand LLM](#understand-llm)
   - [Learn LLM](#learn-llm)
     - [Training](#training)
+    - [Fundamentals](#fundamentals)
     - [Books](#books)
     - [Applications](#applications-1)
       - [General](#general)
@@ -136,6 +137,10 @@ Reasoning & Planning
 - [Lil'Log](https://lilianweng.github.io/) - Lilian Weng(OpenAI)'s blog on machine learning, deep learning, and AI, with a focus on LLMs and NLP.
 - [Decoding ML](https://decodingml.substack.com/) - Content on building production GenAI, RecSys and MLOps applications.
 
+### Fundamentals
+- [Intro to LLMs](https://www.youtube.com/watch?v=zjkBMFhNj_g&t=1390s&ab_channel=AndrejKarpathy) - A 1 hour general-audience introduction to Large Language Models by Andrej Karpathy.
+- [Building GPT-2 from Scratch](https://www.youtube.com/watch?v=l8pRSuU81PU&t=1564s&ab_channel=AndrejKarpathy) - A 4 hour deep dive into building GPT2 from scratch by Andrej Karpathy.
+
 ### Books 
 - [Build a Large Language Model from Scratch](https://www.manning.com/books/build-a-large-language-model-from-scratch) by Sebastian Raschka
 - [Hands-On Large Language Models: Build, Tune, and Apply LLMs](https://www.amazon.com/Hands-Large-Language-Models-Understanding/dp/1098150961) by Jay Alammar , Maarten Grootendorst
@@ -160,7 +165,7 @@ Reasoning & Planning
 1. Lectures
 
 - [LLM Agents MOOC](https://youtube.com/playlist?list=PLS01nW3RtgopsNLeM936V4TNSsvvVglLc&si=LAonD5VfG9jFAOuE) - A playlist of 11 lectures by the Berkeley RDI Center on Decentralization & AI, featuring guest speakers like Yuandong Tian, Graham Neubig, Omar Khattab, and others, covering core topics on Large Language Model agents.
-
+- [The Neural Maze Youtube]
 2. Projects
 
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands) - Open source agents for developers by [AllHands](https://www.all-hands.dev/).
