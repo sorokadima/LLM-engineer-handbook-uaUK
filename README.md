@@ -10,7 +10,6 @@ The LLM space is complicated! This repo provides a curated list to help you navi
   - [Pretraining](#pretraining)
   - [Fine-tuning](#fine-tuning)
   - [Serving](#serving)
-    - [Specific](#specific)
   - [Prompt Management](#prompt-management)
   - [Datasets](#datasets)
   - [Benchmarks](#benchmarks)
@@ -73,7 +72,7 @@ The LLM space is complicated! This repo provides a curated list to help you navi
 
 - [NVIDIA TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT-LLM is NVIDIA's compiler for transformer-based models (LLMs), providing state-of-the-art optimizations on NVIDIA GPUs.
  
-- [NVIDIA Triton Inference Server](https://developer.nvidia.com/triton-inference-server) - A high-performance inference server supporting multiple ML/DL frameworks (TensorFlow, PyTorch, ONNX, etc.), optimized for GPU deployments, and ideal for both cloud and on-premises serving.
+- [NVIDIA Triton Inference Server](https://developer.nvidia.com/triton-inference-server) - A high-performance inference server supporting multiple ML/DL frameworks (TensorFlow, PyTorch, ONNX, TensorRT etc.), optimized for NVIDIA GPU deployments, and ideal for both cloud and on-premises serving.
 
 - [ollama](https://github.com/ollama/ollama) - A lightweight, extensible framework for building and running large language models on the local machine.
 
@@ -86,10 +85,6 @@ The LLM space is complicated! This repo provides a curated list to help you navi
 - [sglang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
 
 - [LitServe](https://github.com/Lightning-AI/LitServe) - LitServe is a lightning-fast serving engine for any AI model of any size. Flexible. Easy. Enterprise-scale.
-
-
-### Specific
-
 
 ## Prompt Management
 
