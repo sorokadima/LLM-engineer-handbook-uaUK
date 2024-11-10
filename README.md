@@ -135,6 +135,7 @@ Reasoning & Planning
 
 - [Chip's Blog](https://huyenchip.com/blog/) - Chip Huyen's blog on training LLMs, including the latest research, tutorials, and best practices.
 - [Lil'Log](https://lilianweng.github.io/) - Lilian Weng(OpenAI)'s blog on machine learning, deep learning, and AI, with a focus on LLMs and NLP.
+- [Ahead of AI](https://magazine.sebastianraschka.com/) - Sebastian Raschka's Newsletter, covering end-to-end LLMs understanding.
 - [Decoding ML](https://decodingml.substack.com/) - Content on building production GenAI, RecSys and MLOps applications.
 
 ### Fundamentals
@@ -165,8 +166,8 @@ Reasoning & Planning
 1. Lectures
 
 - [LLM Agents MOOC](https://youtube.com/playlist?list=PLS01nW3RtgopsNLeM936V4TNSsvvVglLc&si=LAonD5VfG9jFAOuE) - A playlist of 11 lectures by the Berkeley RDI Center on Decentralization & AI, featuring guest speakers like Yuandong Tian, Graham Neubig, Omar Khattab, and others, covering core topics on Large Language Model agents.
-- [The Neural Maze Youtube]
-2. Projects
+
+1. Projects
 
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands) - Open source agents for developers by [AllHands](https://www.all-hands.dev/).
 - [CAMEL](https://github.com/camel-ai/camel) - First LLM multi-agent framework and an open-source community dedicated to finding the scaling law of agents. by [CAMEL-AI](https://www.camel-ai.org/).
@@ -179,15 +180,19 @@ Reasoning & Planning
 
 ## Social Accounts
 
-- [Chip Huyen](https://www.linkedin.com/in/chiphuyen)
-- [Damien Benveniste, PhD](https://www.linkedin.com/in/damienbenveniste/)
-- [Jim Fan](https://www.linkedin.com/in/drjimfan/)
-- [Li Yin](https://www.linkedin.com/in/li-yin-ai)
-- [Paul Iusztin](https://www.linkedin.com/in/pauliusztin/) LLM engineering & LLMOps
-- [Armand Ruiz](https://www.linkedin.com/in/armand-ruiz/) AI product at IBM
-- [Pascal Biese](https://www.linkedin.com/in/pascalbiese/) Daily LLM papers
-- [Maxime Labonne](https://www.linkedin.com/in/maxime-labonne/) LLM fine-tuning
-- [Sebastian Raschka](https://www.linkedin.com/in/sebastianraschka/) Blogs :Ahead of AI
+| Name                | Social                                              | Expertise                  |
+|---------------------|-------------------------------------------------------|-----------------------------|
+| Chip Huyen         | [LinkedIn](https://www.linkedin.com/in/chiphuyen)      |   AI Engineering & ML Systems                      |
+| Damien Benveniste, PhD | [LinkedIn](https://www.linkedin.com/in/damienbenveniste/) |        ML Systems & MLOps                    |
+| Jim Fan            | [LinkedIn](https://www.linkedin.com/in/drjimfan/)      |    LLM Agents & Robotics                        |
+| Li Yin             | [LinkedIn](https://www.linkedin.com/in/li-yin-ai)      |    LLM Engineering & Advanced RAG                          |
+| Paul Iusztin       | [LinkedIn](https://www.linkedin.com/in/pauliusztin/)   | LLM Engineering & LLMOps    |
+| Armand Ruiz        | [LinkedIn](https://www.linkedin.com/in/armand-ruiz/)   | AI Engineering Director at IBM           |
+| Alex Razvant       | [LinkedIn](https://www.linkedin.com/in/arazvant/)      | AI/ML Engineering          |
+| Pascal Biese       | [LinkedIn](https://www.linkedin.com/in/pascalbiese/)   | LLM Papers Daily            |
+| Maxime Labonne     | [LinkedIn](https://www.linkedin.com/in/maxime-labonne/) | LLM Fine-Tuning             |
+| Sebastian Raschka  | [LinkedIn](https://www.linkedin.com/in/sebastianraschka/) | LLMs from Scratch       |
+
 
 
 
