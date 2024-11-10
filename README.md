@@ -4,15 +4,25 @@ The LLM space is complicated! This repo provides a curated list to help you navi
 
 ## Table of Content
 
-- [Applications](#applications)
-- [Pretraining](#pretraining)
-- [Fine-tuning](#fine-tuning)
-- [Serving](#serving)
-- [Datasets](#datasets)
-- [Benchmarks](#benchmarks)
-- [Learn LLM Applications](#learn-llm-applications)
-- [Understand LLM](#understand-llm)
-- [Social Accounts](#social-accounts)
+- [LLM-engineer-handbook](#llm-engineer-handbook)
+  - [Table of Content](#table-of-content)
+  - [Applications](#applications)
+  - [Pretraining](#pretraining)
+  - [Fine-tuning](#fine-tuning)
+  - [Serving](#serving)
+  - [Prompt Management](#prompt-management)
+  - [Datasets](#datasets)
+  - [Benchmarks](#benchmarks)
+  - [Understand LLM](#understand-llm)
+  - [Learn LLM](#learn-llm)
+    - [Training](#training)
+    - [Books](#books)
+    - [Applications](#applications-1)
+      - [General](#general)
+      - [Agent](#agent)
+    - [Auto-optimization](#auto-optimization)
+  - [Social Accounts](#social-accounts)
+  - [Contributing](#contributing)
 
 ## Applications
 
@@ -92,6 +102,9 @@ Pretraining
 ## Benchmarks
 
 - [lighteval](https://github.com/huggingface/lighteval) - A library for evaluating local LLMs on major benchmarks and custom tasks.
+
+- [evals](https://github.com/openai/evals) - OpenAI's open sourced evaluation framework for LLMs and systems built with LLMs.
+- [ragas](https://github.com/explodinggradients/ragas) - A library for evaluating and optimizing LLM applications, offering a rich set of eval metrics.
 
 Agent
 
