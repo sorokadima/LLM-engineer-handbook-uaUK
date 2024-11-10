@@ -4,15 +4,26 @@ The LLM space is complicated! This repo provides a curated list to help you navi
 
 ## Table of Content
 
-- [Applications](#applications)
-- [Pretraining](#pretraining)
-- [Fine-tuning](#fine-tuning)
-- [Serving](#serving)
-- [Datasets](#datasets)
-- [Benchmarks](#benchmarks)
-- [Learn LLM Applications](#learn-llm-applications)
-- [Understand LLM](#understand-llm)
-- [Social Accounts](#social-accounts)
+- [LLM-engineer-handbook](#llm-engineer-handbook)
+  - [Table of Content](#table-of-content)
+  - [Applications](#applications)
+  - [Pretraining](#pretraining)
+  - [Fine-tuning](#fine-tuning)
+  - [Serving](#serving)
+  - [Prompt Management](#prompt-management)
+  - [Datasets](#datasets)
+  - [Benchmarks](#benchmarks)
+  - [Understand LLM](#understand-llm)
+  - [Learn LLM](#learn-llm)
+    - [Training](#training)
+    - [Fundamentals](#fundamentals)
+    - [Books](#books)
+    - [Applications](#applications-1)
+      - [General](#general)
+      - [Agent](#agent)
+    - [Auto-optimization](#auto-optimization)
+  - [Social Accounts](#social-accounts)
+  - [Contributing](#contributing)
 
 ## Applications
 
@@ -60,7 +71,15 @@ The LLM space is complicated! This repo provides a curated list to help you navi
 
 - [Ray Serve](https://docs.ray.io/en/latest/serve/index.html) - Part of the Ray ecosystem, Ray Serve is a scalable model-serving library that supports deployment of machine learning models across multiple frameworks, with built-in support for Python-based APIs and model pipelines.
 
-- [NVIDIA Triton Inference Server](https://developer.nvidia.com/triton-inference-server) - A high-performance inference server supporting multiple ML/DL frameworks (TensorFlow, PyTorch, ONNX, etc.), optimized for GPU deployments, and ideal for both cloud and on-premises serving.
+- [NVIDIA TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT-LLM is NVIDIA's compiler for transformer-based models (LLMs), providing state-of-the-art optimizations on NVIDIA GPUs.
+ 
+- [NVIDIA Triton Inference Server](https://developer.nvidia.com/triton-inference-server) - A high-performance inference server supporting multiple ML/DL frameworks (TensorFlow, PyTorch, ONNX, TensorRT etc.), optimized for NVIDIA GPU deployments, and ideal for both cloud and on-premises serving.
+
+- [ollama](https://github.com/ollama/ollama) - A lightweight, extensible framework for building and running large language models on the local machine.
+
+- [llama.cpp](https://github.com/ggerganov/llama.cpp) - A library for running LLMs in pure C/C++. Supported architectures include (LLaMA, Falcon, Mistral, MoEs, phi and more)
+
+- [TGI](https://github.com/huggingface/text-generation-inference) - HuggingFace's text-generation-inference toolkit for deploying and serving LLMs, built on top of Rust, Python and gRPC.
 
 - [vllm](https://github.com/vllm-project/vllm) - An optimized, high-throughput serving engine for large language models, designed to efficiently handle massive-scale inference with reduced latency.
 
@@ -93,6 +112,9 @@ Pretraining
 
 - [lighteval](https://github.com/huggingface/lighteval) - A library for evaluating local LLMs on major benchmarks and custom tasks.
 
+- [evals](https://github.com/openai/evals) - OpenAI's open sourced evaluation framework for LLMs and systems built with LLMs.
+- [ragas](https://github.com/explodinggradients/ragas) - A library for evaluating and optimizing LLM applications, offering a rich set of eval metrics.
+
 Agent
 
 - [TravelPlanner](https://osu-nlp-group.github.io/TravelPlanner/) - [paper](https://arxiv.org/pdf/2402.01622) A Benchmark for Real-World Planning with Language Agents
@@ -113,12 +135,19 @@ Reasoning & Planning
 
 - [Chip's Blog](https://huyenchip.com/blog/) - Chip Huyen's blog on training LLMs, including the latest research, tutorials, and best practices.
 - [Lil'Log](https://lilianweng.github.io/) - Lilian Weng(OpenAI)'s blog on machine learning, deep learning, and AI, with a focus on LLMs and NLP.
+- [Ahead of AI](https://magazine.sebastianraschka.com/) - Sebastian Raschka's Newsletter, covering end-to-end LLMs understanding.
 - [Decoding ML](https://decodingml.substack.com/) - Content on building production GenAI, RecSys and MLOps applications.
+
+### Fundamentals
+- [Intro to LLMs](https://www.youtube.com/watch?v=zjkBMFhNj_g&t=1390s&ab_channel=AndrejKarpathy) - A 1 hour general-audience introduction to Large Language Models by Andrej Karpathy.
+- [Building GPT-2 from Scratch](https://www.youtube.com/watch?v=l8pRSuU81PU&t=1564s&ab_channel=AndrejKarpathy) - A 4 hour deep dive into building GPT2 from scratch by Andrej Karpathy.
 
 ### Books 
 - [Build a Large Language Model from Scratch](https://www.manning.com/books/build-a-large-language-model-from-scratch) by Sebastian Raschka
-- [Hands-On Large Language Models: Build, Tune, and Apply LLMs](https://www.amazon.com/Hands-Large-Language-Models-Understanding/dp/1098150961) by Jay Alammar , Maarten Grootendorst 
-- [LLM Engineer's Handbook: Master the art of engineering large language models from concept to production](https://www.amazon.com/dp/1836200072?ref=cm_sw_r_cp_ud_dp_ZFR4XZPT7EY41ZE1M5X9&ref_=cm_sw_r_cp_ud_dp_ZFR4XZPT7EY41ZE1M5X9&social_share=cm_sw_r_cp_ud_dp_ZFR4XZPT7EY41ZE1M5X9) by   Paul Iusztin , Maxime Labonne 
+- [Hands-On Large Language Models: Build, Tune, and Apply LLMs](https://www.amazon.com/Hands-Large-Language-Models-Understanding/dp/1098150961) by Jay Alammar , Maarten Grootendorst
+
+- [LLM Engineer's Handbook: Master the art of engineering large language models from concept to production](https://www.amazon.com/dp/1836200072?ref=cm_sw_r_cp_ud_dp_ZFR4XZPT7EY41ZE1M5X9&ref_=cm_sw_r_cp_ud_dp_ZFR4XZPT7EY41ZE1M5X9&social_share=cm_sw_r_cp_ud_dp_ZFR4XZPT7EY41ZE1M5X9) by   Paul Iusztin , Maxime Labonne
+- [Generative Deep Learning - Teaching machines to Paint, Write, Compose and Play](https://www.amazon.com/Generative-Deep-Learning-Teaching-Machines/dp/1492041947) by David Foster
 
 ### Applications
 
@@ -138,7 +167,7 @@ Reasoning & Planning
 
 - [LLM Agents MOOC](https://youtube.com/playlist?list=PLS01nW3RtgopsNLeM936V4TNSsvvVglLc&si=LAonD5VfG9jFAOuE) - A playlist of 11 lectures by the Berkeley RDI Center on Decentralization & AI, featuring guest speakers like Yuandong Tian, Graham Neubig, Omar Khattab, and others, covering core topics on Large Language Model agents.
 
-2. Projects
+1. Projects
 
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands) - Open source agents for developers by [AllHands](https://www.all-hands.dev/).
 - [CAMEL](https://github.com/camel-ai/camel) - First LLM multi-agent framework and an open-source community dedicated to finding the scaling law of agents. by [CAMEL-AI](https://www.camel-ai.org/).
@@ -151,15 +180,19 @@ Reasoning & Planning
 
 ## Social Accounts
 
-- [Chip Huyen](https://www.linkedin.com/in/chiphuyen)
-- [Damien Benveniste, PhD](https://www.linkedin.com/in/damienbenveniste/)
-- [Jim Fan](https://www.linkedin.com/in/drjimfan/)
-- [Li Yin](https://www.linkedin.com/in/li-yin-ai)
-- [Paul Iusztin](https://www.linkedin.com/in/pauliusztin/) LLM engineering & LLMOps
-- [Armand Ruiz](https://www.linkedin.com/in/armand-ruiz/) AI product at IBM
-- [Pascal Biese](https://www.linkedin.com/in/pascalbiese/) Daily LLM papers
-- [Maxime Labonne](https://www.linkedin.com/in/maxime-labonne/) LLM fine-tuning
-- [Sebastian Raschka](https://www.linkedin.com/in/sebastianraschka/) Blogs :Ahead of AI
+| Name                | Social                                              | Expertise                  |
+|---------------------|-------------------------------------------------------|-----------------------------|
+| Chip Huyen         | [LinkedIn](https://www.linkedin.com/in/chiphuyen)      |   AI Engineering & ML Systems                      |
+| Damien Benveniste, PhD | [LinkedIn](https://www.linkedin.com/in/damienbenveniste/) |        ML Systems & MLOps                    |
+| Jim Fan            | [LinkedIn](https://www.linkedin.com/in/drjimfan/)      |    LLM Agents & Robotics                        |
+| Li Yin             | [LinkedIn](https://www.linkedin.com/in/li-yin-ai)      |    LLM Engineering & Advanced RAG                          |
+| Paul Iusztin       | [LinkedIn](https://www.linkedin.com/in/pauliusztin/)   | LLM Engineering & LLMOps    |
+| Armand Ruiz        | [LinkedIn](https://www.linkedin.com/in/armand-ruiz/)   | AI Engineering Director at IBM           |
+| Alex Razvant       | [LinkedIn](https://www.linkedin.com/in/arazvant/)      | AI/ML Engineering          |
+| Pascal Biese       | [LinkedIn](https://www.linkedin.com/in/pascalbiese/)   | LLM Papers Daily            |
+| Maxime Labonne     | [LinkedIn](https://www.linkedin.com/in/maxime-labonne/) | LLM Fine-Tuning             |
+| Sebastian Raschka  | [LinkedIn](https://www.linkedin.com/in/sebastianraschka/) | LLMs from Scratch       |
+
 
 
 
