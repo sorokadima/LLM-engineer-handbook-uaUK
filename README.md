@@ -10,6 +10,7 @@ The LLM space is complicated! This repo provides a curated list to help you navi
   - [Pretraining](#pretraining)
   - [Fine-tuning](#fine-tuning)
   - [Serving](#serving)
+    - [Specific](#specific)
   - [Prompt Management](#prompt-management)
   - [Datasets](#datasets)
   - [Benchmarks](#benchmarks)
@@ -70,13 +71,25 @@ The LLM space is complicated! This repo provides a curated list to help you navi
 
 - [Ray Serve](https://docs.ray.io/en/latest/serve/index.html) - Part of the Ray ecosystem, Ray Serve is a scalable model-serving library that supports deployment of machine learning models across multiple frameworks, with built-in support for Python-based APIs and model pipelines.
 
+- [NVIDIA TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT-LLM is NVIDIA's compiler for transformer-based models (LLMs), providing state-of-the-art optimizations on NVIDIA GPUs.
+ 
 - [NVIDIA Triton Inference Server](https://developer.nvidia.com/triton-inference-server) - A high-performance inference server supporting multiple ML/DL frameworks (TensorFlow, PyTorch, ONNX, etc.), optimized for GPU deployments, and ideal for both cloud and on-premises serving.
+
+- [ollama](https://github.com/ollama/ollama) - A lightweight, extensible framework for building and running large language models on the local machine.
+
+- [llama.cpp](https://github.com/ggerganov/llama.cpp) - A library for running LLMs in pure C/C++. Supported architectures include (LLaMA, Falcon, Mistral, MoEs, phi and more)
+
+- [TGI](https://github.com/huggingface/text-generation-inference) - HuggingFace's text-generation-inference toolkit for deploying and serving LLMs, built on top of Rust, Python and gRPC.
 
 - [vllm](https://github.com/vllm-project/vllm) - An optimized, high-throughput serving engine for large language models, designed to efficiently handle massive-scale inference with reduced latency.
 
 - [sglang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
 
 - [LitServe](https://github.com/Lightning-AI/LitServe) - LitServe is a lightning-fast serving engine for any AI model of any size. Flexible. Easy. Enterprise-scale.
+
+
+### Specific
+
 
 ## Prompt Management
 
