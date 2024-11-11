@@ -173,6 +173,7 @@ Reasoning & Planning
 - [CAMEL](https://github.com/camel-ai/camel) - First LLM multi-agent framework and an open-source community dedicated to finding the scaling law of agents. by [CAMEL-AI](https://www.camel-ai.org/).
 - [swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
 - [AutoGen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 by Microsoft.
+- [CrewAI](https://github.com/crewAIInc/crewAI) - 🤖 CrewAI: Cutting-edge framework for orchestrating role-playing, autonomous AI agents.
 
 ### Auto-optimization
 
