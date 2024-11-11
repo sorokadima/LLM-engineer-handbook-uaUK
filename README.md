@@ -23,6 +23,7 @@ The LLM space is complicated! This repo provides a curated list to help you navi
       - [Agent](#agent)
     - [Auto-optimization](#auto-optimization)
   - [Social Accounts](#social-accounts)
+  - [Community](#community)
   - [Contributing](#contributing)
 
 ## Applications
@@ -185,7 +186,7 @@ Reasoning & Planning
 | Chip Huyen         | [LinkedIn](https://www.linkedin.com/in/chiphuyen)      |   AI Engineering & ML Systems                      |
 | Damien Benveniste, PhD | [LinkedIn](https://www.linkedin.com/in/damienbenveniste/) |        ML Systems & MLOps                    |
 | Jim Fan            | [LinkedIn](https://www.linkedin.com/in/drjimfan/)      |    LLM Agents & Robotics                        |
-| Li Yin             | [LinkedIn](https://www.linkedin.com/in/li-yin-ai)      |    LLM Engineering & Advanced RAG                          |
+| Li Yin             | [LinkedIn](https://www.linkedin.com/in/li-yin-ai)      |    LLM Engineering & Author of AdalFlow                          |
 | Paul Iusztin       | [LinkedIn](https://www.linkedin.com/in/pauliusztin/)   | LLM Engineering & LLMOps    |
 | Armand Ruiz        | [LinkedIn](https://www.linkedin.com/in/armand-ruiz/)   | AI Engineering Director at IBM           |
 | Alex Razvant       | [LinkedIn](https://www.linkedin.com/in/arazvant/)      | AI/ML Engineering          |
@@ -193,8 +194,11 @@ Reasoning & Planning
 | Maxime Labonne     | [LinkedIn](https://www.linkedin.com/in/maxime-labonne/) | LLM Fine-Tuning             |
 | Sebastian Raschka  | [LinkedIn](https://www.linkedin.com/in/sebastianraschka/) | LLMs from Scratch       |
 
+## Community
 
-
+| Name                | Social                                              | Scope                  |
+|---------------------|-------------------------------------------------------|-----------------------------|
+| AdalFlow     | [Discord](https://discord.gg/ezzszrRZvT)                |   LLM Engineering, auto-prompts, and AdalFlow discussions&contributions                      |
 
 ## Contributing
 
