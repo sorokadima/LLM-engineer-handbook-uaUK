@@ -15,6 +15,7 @@ The LLM space is complicated! This repo provides a curated list to help you navi
   - [Benchmarks](#benchmarks)
   - [Understand LLM](#understand-llm)
   - [Learn LLM](#learn-llm)
+    - [Modeling](#modeling)
     - [Training](#training)
     - [Fundamentals](#fundamentals)
     - [Books](#books)
@@ -131,6 +132,13 @@ Reasoning & Planning
 - [Kambhampati, Subbarao, et al. "LLMs can't plan, but can help planning in LLM-modulo frameworks." arXiv preprint arXiv:2402.01817 (2024).](https://arxiv.org/abs/2402.01817)
 
 ## Learn LLM
+
+### Modeling
+
+- [Llama3 from scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time with PyTorch.
+- [Interactive LLM visualization](https://github.com/bbycroft/llm-viz) - An interactive visualization of transformers. [Visualizer](https://bbycroft.net/llm)
+- [3Blue1Brown transformers visualization](https://www.youtube.com/watch?v=wjZofJX0v4M) - 3Blue1Brown's video on how transformers work.
+- [Self-Attention explained as directed graph](https://x.com/akshay_pachaar/status/1853474819523965088) - An X post explaining self-attention as a directed graph by Akshay Pachaar.
 
 ### Training
 
