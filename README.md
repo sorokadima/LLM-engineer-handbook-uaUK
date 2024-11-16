@@ -42,7 +42,7 @@ The LLM space is complicated! This repo provides a curated list to help you navi
 
 **Build & Auto-optimize**
 
-- [AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - The library to build & auto-optimize LLM applications, from Chatbot, RAG, to Agent. It is AI-first with PyTorch-like design patterns.
+- [AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - The library to build & auto-optimize LLM applications, from Chatbot, RAG, to Agent by [SylphAI](https://www.sylph.ai/).
 
 - [dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models.
 
@@ -220,7 +220,7 @@ Social accounts are the best ways to stay up-to-date with the lastest LLM resear
 
 | Name                | Social                                              | Expertise                  |
 |---------------------|-------------------------------------------------------|-----------------------------|
-| Li Yin             | [LinkedIn](https://www.linkedin.com/in/li-yin-ai)      |    LLM Engineering & AdalFlow Author                         |
+| Li Yin             | [LinkedIn](https://www.linkedin.com/in/li-yin-ai)      |    AdalFlow Author & SylphAI founder                      |
 | Chip Huyen         | [LinkedIn](https://www.linkedin.com/in/chiphuyen)      |   AI Engineering & ML Systems                      |
 | Damien Benveniste, PhD | [LinkedIn](https://www.linkedin.com/in/damienbenveniste/) |        ML Systems & MLOps                    |
 | Jim Fan            | [LinkedIn](https://www.linkedin.com/in/drjimfan/)      |    LLM Agents & Robotics                        |
