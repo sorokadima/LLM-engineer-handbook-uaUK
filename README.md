@@ -125,7 +125,9 @@ Agent
 
 ## Understand LLM
 
-Prompt Engineering
+It can be fun and important to understand the capabilities, behaviors, and limitations of LLMs. This can directly help with prompt engineering.
+
+In-context Learning
 
 - [Brown, Tom B. "Language models are few-shot learners." arXiv preprint arXiv:2005.14165 (2020).](https://rosanneliu.com/dlctfs/dlct_200724.pdf)
 
@@ -135,6 +137,33 @@ Reasoning & Planning
 - [Mirzadeh, Iman, et al. "Gsm-symbolic: Understanding the limitations of mathematical reasoning in large language models." arXiv preprint arXiv:2410.05229 (2024).](https://arxiv.org/abs/2410.05229) By Apple.
 
 ## Learn LLM
+
+We will categorize the best resources to learn LLMs, from modeling to training, and applications.
+
+### Applications
+
+General
+
+- [AdalFlow documentation](https://adalflow.sylph.ai/) - Includes tutorials from building RAG, Agent, to LLM evaluation and fine-tuning.
+
+- [CS224N](https://www.youtube.com/watch?v=rmVRLeJRkl4) - Stanford course covering NLP fundamentals, LLMs, and PyTorch-based model building, led by Chris Manning and Shikhar Murty.
+
+- [LLM-driven Data Engineering](https://github.com/DataExpert-io/llm-driven-data-engineering) -  A playlist of 6 lectures by [Zach Wilson](https://www.linkedin.com/in/eczachly) on how LLMs will impact data pipeline development 
+
+- [LLM Course by Maxime Labonne](https://github.com/mlabonne/llm-course) - An end-to-end course for AI and ML engineers on open source LLMs.
+
+#### Agent
+
+Lectures
+
+- [LLM Agents MOOC](https://youtube.com/playlist?list=PLS01nW3RtgopsNLeM936V4TNSsvvVglLc&si=LAonD5VfG9jFAOuE) - A playlist of 11 lectures by the Berkeley RDI Center on Decentralization & AI, featuring guest speakers like Yuandong Tian, Graham Neubig, Omar Khattab, and others, covering core topics on Large Language Model agents. [CS294](https://rdi.berkeley.edu/llm-agents/f24)
+
+Projects
+
+- [OpenHands](https://github.com/All-Hands-AI/OpenHands) - Open source agents for developers by [AllHands](https://www.all-hands.dev/).
+- [CAMEL](https://github.com/camel-ai/camel) - First LLM multi-agent framework and an open-source community dedicated to finding the scaling law of agents. by [CAMEL-AI](https://www.camel-ai.org/).
+- [swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
+- [AutoGen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 by Microsoft.
 
 ### Modeling
 
@@ -147,8 +176,10 @@ Reasoning & Planning
 
 - [Chip's Blog](https://huyenchip.com/blog/) - Chip Huyen's blog on training LLMs, including the latest research, tutorials, and best practices.
 - [Lil'Log](https://lilianweng.github.io/) - Lilian Weng(OpenAI)'s blog on machine learning, deep learning, and AI, with a focus on LLMs and NLP.
-- [Ahead of AI](https://magazine.sebastianraschka.com/) - Sebastian Raschka's Newsletter, covering end-to-end LLMs understanding.
-- [Decoding ML](https://decodingml.substack.com/) - Content on building production GenAI, RecSys and MLOps applications.
+
+### Fine-tuning
+
+- [DPO](https://arxiv.org/abs/2305.18290): Rafailov, Rafael, et al. "Direct preference optimization: Your language model is secretly a reward model." Advances in Neural Information Processing Systems 36 (2024). [Code](https://github.com/eric-mitchell/direct-preference-optimization).
 
 ### Fundamentals
 - [Intro to LLMs](https://www.youtube.com/watch?v=zjkBMFhNj_g&t=1390s&ab_channel=AndrejKarpathy) - A 1 hour general-audience introduction to Large Language Models by Andrej Karpathy.
@@ -161,30 +192,12 @@ Reasoning & Planning
 - [LLM Engineer's Handbook: Master the art of engineering large language models from concept to production](https://www.amazon.com/dp/1836200072?ref=cm_sw_r_cp_ud_dp_ZFR4XZPT7EY41ZE1M5X9&ref_=cm_sw_r_cp_ud_dp_ZFR4XZPT7EY41ZE1M5X9&social_share=cm_sw_r_cp_ud_dp_ZFR4XZPT7EY41ZE1M5X9) by   Paul Iusztin , Maxime Labonne
 - [Generative Deep Learning - Teaching machines to Paint, Write, Compose and Play](https://www.amazon.com/Generative-Deep-Learning-Teaching-Machines/dp/1492041947) by David Foster
 
-### Applications
+### Newsletters
 
-#### General
+- [Ahead of AI](https://magazine.sebastianraschka.com/) - Sebastian Raschka's Newsletter, covering end-to-end LLMs understanding.
+- [Decoding ML](https://decodingml.substack.com/) - Content on building production GenAI, RecSys and MLOps applications.
 
-- [AdalFlow documentation](https://adalflow.sylph.ai/) - Includes tutorials from building RAG, Agent, to LLM evaluation and fine-tuning.
 
-- [CS224N](https://www.youtube.com/watch?v=rmVRLeJRkl4) - Stanford course covering NLP fundamentals, LLMs, and PyTorch-based model building, led by Chris Manning and Shikhar Murty.
-
-- [LLM-driven Data Engineering](https://github.com/DataExpert-io/llm-driven-data-engineering) -  A playlist of 6 lectures by [Zach Wilson](https://www.linkedin.com/in/eczachly) on how LLMs will impact data pipeline development 
-
-- [LLM Course by Maxime Labonne](https://github.com/mlabonne/llm-course) - An end-to-end course for AI and ML engineers on open source LLMs.
-
-#### Agent
-
-1. Lectures
-
-- [LLM Agents MOOC](https://youtube.com/playlist?list=PLS01nW3RtgopsNLeM936V4TNSsvvVglLc&si=LAonD5VfG9jFAOuE) - A playlist of 11 lectures by the Berkeley RDI Center on Decentralization & AI, featuring guest speakers like Yuandong Tian, Graham Neubig, Omar Khattab, and others, covering core topics on Large Language Model agents. [CS294](https://rdi.berkeley.edu/llm-agents/f24)
-
-1. Projects
-
-- [OpenHands](https://github.com/All-Hands-AI/OpenHands) - Open source agents for developers by [AllHands](https://www.all-hands.dev/).
-- [CAMEL](https://github.com/camel-ai/camel) - First LLM multi-agent framework and an open-source community dedicated to finding the scaling law of agents. by [CAMEL-AI](https://www.camel-ai.org/).
-- [swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
-- [AutoGen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 by Microsoft.
 
 ### Auto-optimization
 
@@ -192,18 +205,22 @@ Reasoning & Planning
 
 ## Social Accounts
 
+Social accounts are the best ways to stay up-to-date with the lastest LLM research, industry trends, and best practices.
+
 | Name                | Social                                              | Expertise                  |
 |---------------------|-------------------------------------------------------|-----------------------------|
+| Li Yin             | [LinkedIn](https://www.linkedin.com/in/li-yin-ai)      |    LLM Engineering & AdalFlow Author                         |
 | Chip Huyen         | [LinkedIn](https://www.linkedin.com/in/chiphuyen)      |   AI Engineering & ML Systems                      |
 | Damien Benveniste, PhD | [LinkedIn](https://www.linkedin.com/in/damienbenveniste/) |        ML Systems & MLOps                    |
 | Jim Fan            | [LinkedIn](https://www.linkedin.com/in/drjimfan/)      |    LLM Agents & Robotics                        |
-| Li Yin             | [LinkedIn](https://www.linkedin.com/in/li-yin-ai)      |    LLM Engineering & Author of AdalFlow                          |
 | Paul Iusztin       | [LinkedIn](https://www.linkedin.com/in/pauliusztin/)   | LLM Engineering & LLMOps    |
 | Armand Ruiz        | [LinkedIn](https://www.linkedin.com/in/armand-ruiz/)   | AI Engineering Director at IBM           |
 | Alex Razvant       | [LinkedIn](https://www.linkedin.com/in/arazvant/)      | AI/ML Engineering          |
 | Pascal Biese       | [LinkedIn](https://www.linkedin.com/in/pascalbiese/)   | LLM Papers Daily            |
 | Maxime Labonne     | [LinkedIn](https://www.linkedin.com/in/maxime-labonne/) | LLM Fine-Tuning             |
 | Sebastian Raschka  | [LinkedIn](https://www.linkedin.com/in/sebastianraschka/) | LLMs from Scratch       |
+| Zach Wilson        | [LinkedIn](https://www.linkedin.com/in/eczachly)       | Data Engineering for LLMs    |
+| Eduardo Ordax    | [LinkedIn](https://www.linkedin.com/in/eordax/) | GenAI voice @ AWS |
 
 ## Community
 
