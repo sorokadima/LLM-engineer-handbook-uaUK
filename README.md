@@ -220,7 +220,7 @@ Social accounts are the best ways to stay up-to-date with the lastest LLM resear
 
 | Name                | Social                                              | Expertise                  |
 |---------------------|-------------------------------------------------------|-----------------------------|
-| Li Yin             | [LinkedIn](https://www.linkedin.com/in/li-yin-ai)      |    LLM Engineering & AdalFlow Author                         |
+| Li Yin             | [LinkedIn](https://www.linkedin.com/in/li-yin-ai)      |    AdalFlow Author & SylphAI founder                      |
 | Chip Huyen         | [LinkedIn](https://www.linkedin.com/in/chiphuyen)      |   AI Engineering & ML Systems                      |
 | Damien Benveniste, PhD | [LinkedIn](https://www.linkedin.com/in/damienbenveniste/) |        ML Systems & MLOps                    |
 | Jim Fan            | [LinkedIn](https://www.linkedin.com/in/drjimfan/)      |    LLM Agents & Robotics                        |
