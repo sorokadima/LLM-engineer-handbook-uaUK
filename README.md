@@ -2,7 +2,16 @@
 🔥 Large Language Models(LLM) have taken the ~~NLP community~~ ~~AI community~~ **the Whole World** by storm. 
 The LLM space is complicated! This repo provides a curated list to help you navigate; it includes a collection of Large Language Model frameworks and tutorials, covering model training, serving, fine-tuning, and building LLM applications.
 
+
 *However, classical ML is not going away. Even LLMs need them. We have seen classical models used for protecting data privacy, detecing hallucinations, and more. So, do not forget to study the fundamentals of classical ML.*
+
+🤝 Please share this repo so we can continue investing in it and make it the go-to resource for LLM engineers—whether they are just starting out or looking to stay updated in the field.
+
+
+[![Share on Twitter](https://img.shields.io/badge/Share_on-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/intent/tweet?text=Check+out+this+awesome+repository+for+LLM+engineers!&url=https://github.com/LLM-engineer-handbook)
+[![Share on LinkedIn](https://img.shields.io/badge/Share_on-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/LLM-engineer-handbook)
+
+
 
 ## Table of Content
 
