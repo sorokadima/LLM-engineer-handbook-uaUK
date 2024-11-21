@@ -1,6 +1,10 @@
 # LLM-engineer-handbook
 🔥 Large Language Models(LLM) have taken the ~~NLP community~~ ~~AI community~~ **the Whole World** by storm. 
-The LLM space is complicated! This repo provides a curated list to help you navigate; it includes a collection of Large Language Model frameworks and tutorials, covering model training, serving, fine-tuning, and building LLM applications.
+
+Why do we create this repo?
+
+- Everyone can now build an LLM demo in minutes, but it takes a real LLM/AI expert to close the last mile of performance, security, and scalability gaps.
+- The LLM space is complicated! This repo provides a curated list to help you navigate so that you are more likely to build production-grade LLM applications. It includes a collection of Large Language Model frameworks and tutorials, covering model training, serving, fine-tuning, LLM applications & prompt optimization, and LLMOps.
 
 
 *However, classical ML is not going away. Even LLMs need them. We have seen classical models used for protecting data privacy, detecing hallucinations, and more. So, do not forget to study the fundamentals of classical ML.*
@@ -12,8 +16,12 @@ The LLM space is complicated! This repo provides a curated list to help you navi
 [![Share on LinkedIn](https://img.shields.io/badge/Share_on-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/LLM-engineer-handbook)
 
 
+## Overview
 
-## Table of Content
+The current workflow might look like this: You build a demo using an existing application library or directly from LLM model provider SDKs. It works somehow, but you need to further create evaluation and training datasets to optimize the performance (e.g., accuracy, latency, cost). You can do prompt engineering or auto-prompt optimization; you can create a larger dataset to fine-tune the LLM or use Direct Preference Optimization (DPO) to align the model with human preferences.
+Then you need to consider the serving and LLMOps to deploy the model at scale and pipelines to refresh the data.
+We organize the resources by (1) tracking all libraries, frameworks, and tools, (2) learning resources on the whole LLM lifecycle, (3) understanding LLMs, (4) social accounts and community, and (5) how to contribute to this repo.
+
 
 - [LLM-engineer-handbook](#llm-engineer-handbook)
   - [Table of Content](#table-of-content)
@@ -38,6 +46,11 @@ The LLM space is complicated! This repo provides a curated list to help you navi
   - [Community](#community)
   - [Contributing](#contributing)
 
+
+
+
+
+# Libraries & Frameworks & Tools
 ## Applications
 
 **Build & Auto-optimize**
@@ -133,20 +146,9 @@ Agent
 
 - [TravelPlanner](https://osu-nlp-group.github.io/TravelPlanner/) - [paper](https://arxiv.org/pdf/2402.01622) A Benchmark for Real-World Planning with Language Agents.
 
-## Understand LLM
 
-It can be fun and important to understand the capabilities, behaviors, and limitations of LLMs. This can directly help with prompt engineering.
 
-In-context Learning
-
-- [Brown, Tom B. "Language models are few-shot learners." arXiv preprint arXiv:2005.14165 (2020).](https://rosanneliu.com/dlctfs/dlct_200724.pdf)
-
-Reasoning & Planning
-
-- [Kambhampati, Subbarao, et al. "LLMs can't plan, but can help planning in LLM-modulo frameworks." arXiv preprint arXiv:2402.01817 (2024).](https://arxiv.org/abs/2402.01817)
-- [Mirzadeh, Iman, et al. "Gsm-symbolic: Understanding the limitations of mathematical reasoning in large language models." arXiv preprint arXiv:2410.05229 (2024).](https://arxiv.org/abs/2410.05229) By Apple.
-
-## Learn LLM
+# Learning Resources for LLMs
 
 We will categorize the best resources to learn LLMs, from modeling to training, and applications.
 
@@ -197,10 +199,9 @@ Projects
 - [Building GPT-2 from Scratch](https://www.youtube.com/watch?v=l8pRSuU81PU&t=1564s&ab_channel=AndrejKarpathy) - A 4 hour deep dive into building GPT2 from scratch by Andrej Karpathy.
 
 ### Books 
+- [LLM Engineer's Handbook: Master the art of engineering large language models from concept to production](https://www.amazon.com/dp/1836200072?ref=cm_sw_r_cp_ud_dp_ZFR4XZPT7EY41ZE1M5X9&ref_=cm_sw_r_cp_ud_dp_ZFR4XZPT7EY41ZE1M5X9&social_share=cm_sw_r_cp_ud_dp_ZFR4XZPT7EY41ZE1M5X9) by   Paul Iusztin , Maxime Labonne. Covers mostly the lifecycle of LLMs, including LLMOps on pipelines, deployment, monitoring, and more. [Youtube overview by Paul](https://www.youtube.com/live/6WmPfKPmoz0).
 - [Build a Large Language Model from Scratch](https://www.manning.com/books/build-a-large-language-model-from-scratch) by Sebastian Raschka
 - [Hands-On Large Language Models: Build, Tune, and Apply LLMs](https://www.amazon.com/Hands-Large-Language-Models-Understanding/dp/1098150961) by Jay Alammar , Maarten Grootendorst
-
-- [LLM Engineer's Handbook: Master the art of engineering large language models from concept to production](https://www.amazon.com/dp/1836200072?ref=cm_sw_r_cp_ud_dp_ZFR4XZPT7EY41ZE1M5X9&ref_=cm_sw_r_cp_ud_dp_ZFR4XZPT7EY41ZE1M5X9&social_share=cm_sw_r_cp_ud_dp_ZFR4XZPT7EY41ZE1M5X9) by   Paul Iusztin , Maxime Labonne
 - [Generative Deep Learning - Teaching machines to Paint, Write, Compose and Play](https://www.amazon.com/Generative-Deep-Learning-Teaching-Machines/dp/1492041947) by David Foster
 
 ### Newsletters
@@ -214,6 +215,21 @@ Projects
 
 - [TextGrad](https://github.com/zou-group/textgrad) - Automatic ''Differentiation'' via Text -- using large language models to backpropagate textual gradients.
 
+
+# Understanding LLMs
+
+It can be fun and important to understand the capabilities, behaviors, and limitations of LLMs. This can directly help with prompt engineering.
+
+In-context Learning
+
+- [Brown, Tom B. "Language models are few-shot learners." arXiv preprint arXiv:2005.14165 (2020).](https://rosanneliu.com/dlctfs/dlct_200724.pdf)
+
+Reasoning & Planning
+
+- [Kambhampati, Subbarao, et al. "LLMs can't plan, but can help planning in LLM-modulo frameworks." arXiv preprint arXiv:2402.01817 (2024).](https://arxiv.org/abs/2402.01817)
+- [Mirzadeh, Iman, et al. "Gsm-symbolic: Understanding the limitations of mathematical reasoning in large language models." arXiv preprint arXiv:2410.05229 (2024).](https://arxiv.org/abs/2410.05229) By Apple.
+
+# Social Accounts & Community
 ## Social Accounts
 
 Social accounts are the best ways to stay up-to-date with the lastest LLM research, industry trends, and best practices.
@@ -239,7 +255,7 @@ Social accounts are the best ways to stay up-to-date with the lastest LLM resear
 |---------------------|-------------------------------------------------------|-----------------------------|
 | AdalFlow     | [Discord](https://discord.gg/ezzszrRZvT)                |   LLM Engineering, auto-prompts, and AdalFlow discussions&contributions                      |
 
-## Contributing
+# Contributing
 
 This is an active repository and your contributions are always welcome!
 
