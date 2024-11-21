@@ -18,8 +18,11 @@ Why do we create this repo?
 
 ## Overview
 
-The current workflow might look like this: You build a demo using an existing application library or directly from LLM model provider SDKs. It works somehow, but you need to further create evaluation and training datasets to optimize the performance (e.g., accuracy, latency, cost). You can do prompt engineering or auto-prompt optimization; you can create a larger dataset to fine-tune the LLM or use Direct Preference Optimization (DPO) to align the model with human preferences.
+The current workflow might look like this: You build a demo using an existing application library or directly from LLM model provider SDKs. It works somehow, but you need to further create evaluation and training datasets to optimize the performance (e.g., accuracy, latency, cost). 
+
+You can do prompt engineering or auto-prompt optimization; you can create a larger dataset to fine-tune the LLM or use Direct Preference Optimization (DPO) to align the model with human preferences.
 Then you need to consider the serving and LLMOps to deploy the model at scale and pipelines to refresh the data.
+
 We organize the resources by (1) tracking all libraries, frameworks, and tools, (2) learning resources on the whole LLM lifecycle, (3) understanding LLMs, (4) social accounts and community, and (5) how to contribute to this repo.
 
 
