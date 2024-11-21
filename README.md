@@ -24,7 +24,8 @@ We organize the resources by (1) tracking all libraries, frameworks, and tools, 
 
 
 - [LLM-engineer-handbook](#llm-engineer-handbook)
-  - [Table of Content](#table-of-content)
+  - [Overview](#overview)
+- [Libraries \& Frameworks \& Tools](#libraries--frameworks--tools)
   - [Applications](#applications)
   - [Pretraining](#pretraining)
   - [Fine-tuning](#fine-tuning)
@@ -32,19 +33,21 @@ We organize the resources by (1) tracking all libraries, frameworks, and tools, 
   - [Prompt Management](#prompt-management)
   - [Datasets](#datasets)
   - [Benchmarks](#benchmarks)
-  - [Understand LLM](#understand-llm)
-  - [Learn LLM](#learn-llm)
+- [Learning Resources for LLMs](#learning-resources-for-llms)
+    - [Applications](#applications-1)
+      - [Agent](#agent)
     - [Modeling](#modeling)
     - [Training](#training)
+    - [Fine-tuning](#fine-tuning-1)
     - [Fundamentals](#fundamentals)
     - [Books](#books)
-    - [Applications](#applications-1)
-      - [General](#general)
-      - [Agent](#agent)
+    - [Newsletters](#newsletters)
     - [Auto-optimization](#auto-optimization)
+- [Understanding LLMs](#understanding-llms)
+- [Social Accounts \& Community](#social-accounts--community)
   - [Social Accounts](#social-accounts)
   - [Community](#community)
-  - [Contributing](#contributing)
+- [Contributing](#contributing)
 
 
 
