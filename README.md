@@ -9,11 +9,7 @@ Why do we create this repo?
 
 *However, classical ML is not going away. Even LLMs need them. We have seen classical models used for protecting data privacy, detecing hallucinations, and more. So, do not forget to study the fundamentals of classical ML.*
 
-🤝 Please share this repo so we can continue investing in it and make it the go-to resource for LLM engineers—whether they are just starting out or looking to stay updated in the field.
 
-
-[![Share on Twitter](https://img.shields.io/badge/Share_on-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/intent/tweet?text=Check+out+this+awesome+repository+for+LLM+engineers!&url=https://github.com/LLM-engineer-handbook)
-[![Share on LinkedIn](https://img.shields.io/badge/Share_on-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/LLM-engineer-handbook)
 
 
 ## Overview
@@ -263,14 +259,26 @@ Social accounts are the best ways to stay up-to-date with the lastest LLM resear
 
 # Contributing
 
-This is an active repository and your contributions are always welcome!
+Only with the power of the community can we keep this repo up-to-date and relevant. If you have any suggestions, please open an issue or a direct pull request.
 
 I will keep some pull requests open if I'm not sure if they are not an instant fit for this repo, you could vote for them by adding 👍 to them.
+
+
+
+Thanks to the community, this repo is getting read by more people every day.
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=SylphAI-Inc/LLM-engineer-handbook&type=Date)](https://star-history.com/#SylphAI-Inc/LLM-engineer-handbook&Date)
+
+---
+
+🤝 Please share so we can continue investing in it and make it the go-to resource for LLM engineers—whether they are just starting out or looking to stay updated in the field.
+
+
+[![Share on X](https://img.shields.io/badge/Share_on-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/intent/tweet?text=Check+out+this+awesome+repository+for+LLM+engineers!&url=https://github.com/LLM-engineer-handbook)
+[![Share on LinkedIn](https://img.shields.io/badge/Share_on-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/LLM-engineer-handbook)
 
 ---
 
 If you have any question about this opinionated list, do not hesitate to contact [Li Yin](https://www.linkedin.com/in/li-yin-ai)
-
-
-
 
