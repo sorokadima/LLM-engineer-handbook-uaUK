@@ -179,6 +179,7 @@ Projects
 - [swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
 - [AutoGen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 by Microsoft.
 - [CrewAI](https://github.com/crewAIInc/crewAI) - 🤖 CrewAI: Cutting-edge framework for orchestrating role-playing, autonomous AI agents.
+- [TinyTroupe](https://github.com/microsoft/TinyTroupe) - Simulates customizable personas using GPT-4 for testing, insights, and innovation by Microsoft.
 
 ### Modeling
 
