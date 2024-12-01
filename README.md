@@ -189,9 +189,9 @@ Projects
 - [Self-Attention explained as directed graph](https://x.com/akshay_pachaar/status/1853474819523965088) - An X post explaining self-attention as a directed graph by Akshay Pachaar.
 
 ### Training
-
-- [Chip's Blog](https://huyenchip.com/blog/) - Chip Huyen's blog on training LLMs, including the latest research, tutorials, and best practices.
+- [HuggingFace's SmolLM & SmolLM2 training release](https://huggingface.co/blog/smollm) - HuggingFace's sharing on data curation methods, processed data, training recipes, and all of their code. [Github repo](https://github.com/huggingface/smollm?tab=readme-ov-file).
 - [Lil'Log](https://lilianweng.github.io/) - Lilian Weng(OpenAI)'s blog on machine learning, deep learning, and AI, with a focus on LLMs and NLP.
+- [Chip's Blog](https://huyenchip.com/blog/) - Chip Huyen's blog on training LLMs, including the latest research, tutorials, and best practices.
 
 ### Fine-tuning
 
