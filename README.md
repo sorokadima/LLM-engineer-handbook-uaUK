@@ -250,6 +250,7 @@ Social accounts are the best ways to stay up-to-date with the lastest LLM resear
 | Maxime Labonne     | [LinkedIn](https://www.linkedin.com/in/maxime-labonne/) | LLM Fine-Tuning             |
 | Sebastian Raschka  | [LinkedIn](https://www.linkedin.com/in/sebastianraschka/) | LLMs from Scratch       |
 | Zach Wilson        | [LinkedIn](https://www.linkedin.com/in/eczachly)       | Data Engineering for LLMs    |
+| Adi Polak          | [LinkedIn](https://www.linkedin.com/in/polak-adi/)       | Data Streaming for LLMs    |
 | Eduardo Ordax    | [LinkedIn](https://www.linkedin.com/in/eordax/) | GenAI voice @ AWS |
 
 ## Community
