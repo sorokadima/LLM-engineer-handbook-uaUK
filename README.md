@@ -93,6 +93,9 @@ We organize the resources by (1) tracking all libraries, frameworks, and tools, 
 - [LitGPT](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune, and deploy at scale.
 - [AutoTrain](https://github.com/huggingface/autotrain-advanced) - No code fine-tuning of LLMs and other machine learning tasks.
 
+## Top Models
+- [DeepSeek R1](https://github.com/deepseek-ai/DeepSeek-R1) - The most popular GPTo1 comparable open-source reasoning model. Read their technical report + check out their github.
+  
 ## Serving
 
 - [TorchServe](https://pytorch.org/serve/) - An open-source model serving library developed by AWS and Facebook specifically for PyTorch models, enabling scalable deployment, model versioning, and A/B testing.
