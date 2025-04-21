@@ -169,6 +169,7 @@ General
 - [LLM-driven Data Engineering](https://github.com/DataExpert-io/llm-driven-data-engineering) -  A playlist of 6 lectures by [Zach Wilson](https://www.linkedin.com/in/eczachly) on how LLMs will impact data pipeline development 
 
 - [LLM Course by Maxime Labonne](https://github.com/mlabonne/llm-course) - An end-to-end course for AI and ML engineers on open source LLMs.
+- [LLMOps Database by ZenML](https://www.zenml.io/llmops-database) - 500+ case studies of LLMs and GenAI applications in production, all with summaries and tags for easy browsing.
 
 #### Agent
 
