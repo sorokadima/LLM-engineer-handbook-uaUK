@@ -180,7 +180,7 @@ distilling insights from numerous customer deployments into practical and action
 practices. It includes frameworks for identifying promising use cases, clear patterns for designing
 agent logic and orchestration, and best practices to ensure your agents run safely, predictably, 
 and effectively.
-
+- [Anthropic's Building Effective Agents](https://www.anthropic.com/engineering/building-effective-agents) - Covers the building blocks and various design patterns for effective agents.
 - [LLM Agents MOOC](https://youtube.com/playlist?list=PLS01nW3RtgopsNLeM936V4TNSsvvVglLc&si=LAonD5VfG9jFAOuE) - A playlist of 11 lectures by the Berkeley RDI Center on Decentralization & AI, featuring guest speakers like Yuandong Tian, Graham Neubig, Omar Khattab, and others, covering core topics on Large Language Model agents. [CS294](https://rdi.berkeley.edu/llm-agents/f24)
 
 Projects
