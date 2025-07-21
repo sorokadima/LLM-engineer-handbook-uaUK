@@ -185,6 +185,10 @@ and effectively.
 - [LLM Agents MOOC](https://youtube.com/playlist?list=PLS01nW3RtgopsNLeM936V4TNSsvvVglLc&si=LAonD5VfG9jFAOuE) - A playlist of 11 lectures by the Berkeley RDI Center on Decentralization & AI, featuring guest speakers like Yuandong Tian, Graham Neubig, Omar Khattab, and others, covering core topics on Large Language Model agents. [CS294](https://rdi.berkeley.edu/llm-agents/f24)
 - [12 factor agents](https://github.com/humanlayer/12-factor-agents) - Trying to come up with principles for production-grade agents.
 
+Memory
+
+- [LLM Agent Memory Survey](https://github.com/nuster1128/LLM_Agent_Memory_Survey) - A comprehensive survey of memory mechanisms for LLM agents, covering short-term memory, long-term memory, and hybrid approaches.
+
 Projects
 
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands) - Open source agents for developers by [AllHands](https://www.all-hands.dev/).
