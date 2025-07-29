@@ -189,6 +189,10 @@ Memory
 
 - [LLM Agent Memory Survey](https://github.com/nuster1128/LLM_Agent_Memory_Survey) - A comprehensive survey of memory mechanisms for LLM agents, covering short-term memory, long-term memory, and hybrid approaches.
 
+Optimization
+
+- [Awesome-LLM-Agent-Optimization-Papers](https://github.com/YoungDubbyDu/Awesome-LLM-Agent-Optimization-Papers) - A curated list of papers on LLM agent optimization techniques and methodologies.
+
 Projects
 
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands) - Open source agents for developers by [AllHands](https://www.all-hands.dev/).
