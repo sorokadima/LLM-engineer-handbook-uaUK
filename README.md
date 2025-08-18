@@ -208,6 +208,8 @@ Projects
 - [Interactive LLM visualization](https://github.com/bbycroft/llm-viz) - An interactive visualization of transformers. [Visualizer](https://bbycroft.net/llm)
 - [3Blue1Brown transformers visualization](https://www.youtube.com/watch?v=wjZofJX0v4M) - 3Blue1Brown's video on how transformers work.
 - [Self-Attention explained as directed graph](https://x.com/akshay_pachaar/status/1853474819523965088) - An X post explaining self-attention as a directed graph by Akshay Pachaar.
+- [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Github repository with implementation for *Build a Large Language Model (From Scratch)* by Sebastian Raschka. Covers developing, pretraining, and finetuning GPT-like models from scratch with PyTorch.
+
 
 ### Training
 - [HuggingFace's SmolLM & SmolLM2 training release](https://huggingface.co/blog/smollm) - HuggingFace's sharing on data curation methods, processed data, training recipes, and all of their code. [Github repo](https://github.com/huggingface/smollm?tab=readme-ov-file).
