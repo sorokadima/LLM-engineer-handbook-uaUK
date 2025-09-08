@@ -1,10 +1,4 @@
-<details>
-  <summary>Натисни, щоб побачити спойлер</summary>
 
-  Тут прихований текст, який буде видно тільки після розгортання.
-  
-  Можна навіть кілька абзаців.
-</details>
 
 # LLM-engineer-handbook
 
@@ -222,3 +216,133 @@
 * [OpenHands](https://github.com/All-Hands-AI/OpenHands) — відкриті агенти для розробників (**open-source agents for developers**) від [AllHands](https://www.all-hands.dev/).
 * [CAMEL](https://github.com/camel-ai/camel) — перший фреймворк багатоагентних систем на LLM (**multi-agent framework**) і спільнота, що досліджує «закони масштабування» агентів (**scaling law of agents**), від [CAMEL-AI](https://www.camel-ai.org/).
 * [swarm](https://github.com/openai/swarm) — навчальний фреймворк (**educational framework**) для дослідження ергономічної, легковагової багатоагентної оркестрації (**lightweight multi-agent orchestration**), керований командою OpenAI Solutions.
+
+* [AutoGen](https://github.com/microsoft/autogen) — програмний фреймворк (programming **framework**) для агентного ШІ (agentic **AI**) від Microsoft 🤖.
+* [CrewAI](https://github.com/crewAIInc/crewAI) — передовий фреймворк (cutting-edge **framework**) для оркестрації рольових, автономних ШІ-агентів (role-playing, autonomous **AI agents**) 🤖.
+* [TinyTroupe](https://github.com/microsoft/TinyTroupe) — симулює налаштовувані персони (customizable **personas**) на базі GPT-4 для тестування, інсайтів та інновацій (**testing, insights, innovation**) від Microsoft.
+
+### Моделювання (Modeling)
+
+* [Llama3 from scratch](https://github.com/naklecha/llama3-from-scratch) — реалізація Llama 3 «з нуля» (from **scratch**) у PyTorch, по одному множенню матриць за раз (**one matrix multiplication at a time**).
+* [Interactive LLM visualization](https://github.com/bbycroft/llm-viz) — інтерактивна візуалізація (interactive **visualization**) трансформерів (transformers). [Візуалізатор (Visualizer)](https://bbycroft.net/llm)
+* [3Blue1Brown transformers visualization](https://www.youtube.com/watch?v=wjZofJX0v4M) — відео 3Blue1Brown про те, як працюють трансформери (**transformers**).
+* [Self-Attention explained as directed graph](https://x.com/akshay_pachaar/status/1853474819523965088) — допис в X із поясненням механізму самоуваги (self-attention) як орієнтованого графа (directed **graph**) від Akshay Pachaar.
+* [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) — репозиторій GitHub до книги *Build a Large Language Model (From Scratch)* Себастьяна Рашки; охоплює розробку (development), попереднє тренування (pretraining) і файн-тюнінг (fine-tuning) GPT-подібних моделей у PyTorch.
+
+### Навчання (Training)
+
+* [HuggingFace’s SmolLM & SmolLM2 training release](https://huggingface.co/blog/smollm) — про методи курації даних (data **curation**), оброблені дані (processed **data**), рецепти тренування (training **recipes**) та код (**code**). [GitHub-репо](https://github.com/huggingface/smollm?tab=readme-ov-file).
+* [Lil'Log](https://lilianweng.github.io/) — блог Ліліан Венг (OpenAI) про ML, DL і ШІ (machine **learning**, deep **learning**, **AI**) з фокусом на LLM та NLP.
+* [Chip’s Blog](https://huyenchip.com/blog/) — блог Чіп Хуєн про тренування LLM (LLM **training**), нові дослідження (latest **research**), туторіали (tutorials) та найкращі практики (best **practices**).
+
+### Файн-тюнінг (Fine-tuning)
+
+* [DPO](https://arxiv.org/abs/2305.18290): Rafailov, Rafael, et al. «Direct Preference Optimization: ваша мовна модель — це потайкова модель винагороди» (Direct **Preference Optimization**, **DPO**). NeurIPS 36 (2024). [Код (Code)](https://github.com/eric-mitchell/direct-preference-optimization).
+
+### Основи (Fundamentals)
+
+* [Intro to LLMs](https://www.youtube.com/watch?v=zjkBMFhNj_g&t=1390s&ab_channel=AndrejKarpathy) — годинне загальне введення (general-audience **introduction**) до LLM від Андрія Карпатого.
+* [Building GPT-2 from Scratch](https://www.youtube.com/watch?v=l8pRSuU81PU&t=1564s&ab_channel=AndrejKarpathy) — чотиригодинний глибокий розбір (deep **dive**) побудови GPT-2 «з нуля» (**from scratch**) від Андрія Карпатого.
+
+### Книги (Books)
+
+* [LLM Engineer’s Handbook: Master the art of engineering large language models from concept to production](https://www.amazon.com/dp/1836200072?ref=cm_sw_r_cp_ud_dp_ZFR4XZPT7EY41ZE1M5X9&ref_=cm_sw_r_cp_ud_dp_ZFR4XZPT7EY41ZE1M5X9&social_share=cm_sw_r_cp_ud_dp_ZFR4XZPT7EY41ZE1M5X9) — Пол Юзстін, Максім Лабонн. Переважно про життєвий цикл LLM (LLM **lifecycle**): конвеєри LLMOps (LLMOps **pipelines**), деплой (deployment), моніторинг (monitoring) тощо. [Огляд на YouTube (overview)](https://www.youtube.com/live/6WmPfKPmoz0).
+* [Build a Large Language Model from Scratch](https://www.manning.com/books/build-a-large-language-model-from-scratch) — Sebastian Raschka.
+* [Hands-On Large Language Models: Build, Tune, and Apply LLMs](https://www.amazon.com/Hands-Large-Language-Models-Understanding/dp/1098150961) — Jay Alammar, Maarten Grootendorst.
+* [Generative Deep Learning — Teaching machines to Paint, Write, Compose and Play](https://www.amazon.com/Generative-Deep-Learning-Teaching-Machines/dp/1492041947) — David Foster.
+* [Large Language Models: A Deep Dive: Bridging Theory and Practice](https://www.amazon.com/Large-Language-Models-Bridging-Practice/dp/3031656466) — Uday Kamath, Kevin Keenan, Garrett Somers, Sarah Sorenson.
+
+### Розсилки (Newsletters)
+
+* [Ahead of AI](https://magazine.sebastianraschka.com/) — розсилка Себастьяна Рашки з end-to-end розуміння LLM (end-to-end **LLMs understanding**).
+* [Decoding ML](https://decodingml.substack.com/) — матеріали про продакшн-GenAI (production **GenAI**), системи рекомендацій (RecSys) і MLOps-застосунки.
+
+### Автооптимізація (Auto-optimization)
+
+* [TextGrad](https://github.com/zou-group/textgrad) — автоматичне «диференціювання» через текст (automatic **“differentiation” via text**) — використання LLM для «бекпропу» текстових градієнтів (backpropagate **textual gradients**).
+
+# Розуміння LLM (Understanding LLMs)
+
+Цікаво й корисно розуміти можливості, поведінку та обмеження LLM (capabilities, behaviors, limitations). Це безпосередньо допомагає інженерії підказок (prompt **engineering**).
+
+Навчання в контексті (In-context Learning)
+
+* [Brown, Tom B. «Language models are few-shot learners.» arXiv preprint arXiv:2005.14165 (2020).](https://rosanneliu.com/dlctfs/dlct_200724.pdf)
+
+Міркування та планування (Reasoning & Planning)
+
+* [Kambhampati, Subbarao, et al. «LLMs can’t plan, but can help planning in LLM-modulo frameworks.» arXiv preprint arXiv:2402.01817 (2024).](https://arxiv.org/abs/2402.01817)
+* [Mirzadeh, Iman, et al. «GSM-symbolic: Understanding the limitations of mathematical reasoning in large language models.» arXiv preprint arXiv:2410.05229 (2024).](https://arxiv.org/abs/2410.05229) Від Apple.
+
+# Соцмережі та спільноти (Social Accounts & Community)
+
+## Соцмережі (Social Accounts)
+
+Соцмережі — найкращий спосіб лишатися в курсі найактуальніших (up-to-date) досліджень LLM (LLM **research**), індустріальних трендів (industry **trends**) та найкращих практик (best **practices**).
+
+| Ім’я                   | Соцмережа (Social)                                        | Експертиза (Expertise)                                                 |
+| ---------------------- | --------------------------------------------------------- | ---------------------------------------------------------------------- |
+| Li Yin                 | [LinkedIn](https://www.linkedin.com/in/li-yin-ai)         | Автор AdalFlow & засновник SylphAI (AdalFlow author & SylphAI founder) |
+| Chip Huyen             | [LinkedIn](https://www.linkedin.com/in/chiphuyen)         | Інженерія ШІ та ML-системи (AI engineering & ML systems)               |
+| Damien Benveniste, PhD | [LinkedIn](https://www.linkedin.com/in/damienbenveniste/) | ML-системи та MLOps (ML systems & MLOps)                               |
+| Jim Fan                | [LinkedIn](https://www.linkedin.com/in/drjimfan/)         | LLM-агенти та робототехніка (LLM agents & robotics)                    |
+| Paul Iusztin           | [LinkedIn](https://www.linkedin.com/in/pauliusztin/)      | Інженерія LLM і LLMOps (LLM engineering & LLMOps)                      |
+| Armand Ruiz            | [LinkedIn](https://www.linkedin.com/in/armand-ruiz/)      | Директор з інженерії ШІ в IBM (AI Engineering Director at IBM)         |
+| Alex Razvant           | [LinkedIn](https://www.linkedin.com/in/arazvant/)         | Інженерія AI/ML (AI/ML engineering)                                    |
+| Pascal Biese           | [LinkedIn](https://www.linkedin.com/in/pascalbiese/)      | LLM Papers Daily                                                       |
+| Maxime Labonne         | [LinkedIn](https://www.linkedin.com/in/maxime-labonne/)   | Файн-тюнінг LLM (LLM fine-tuning)                                      |
+| Sebastian Raschka      | [LinkedIn](https://www.linkedin.com/in/sebastianraschka/) | LLM «з нуля» (LLMs from scratch)                                       |
+| Zach Wilson            | [LinkedIn](https://www.linkedin.com/in/eczachly)          | Інженерія даних для LLM (data engineering for LLMs)                    |
+| Adi Polak              | [LinkedIn](https://www.linkedin.com/in/polak-adi/)        | Стрімінг даних для LLM (data streaming for LLMs)                       |
+| Eduardo Ordax          | [LinkedIn](https://www.linkedin.com/in/eordax/)           | GenAI voice @ AWS                                                      |
+
+## Спільнота (Community)
+
+| Назва    | Соцмережа (Social)                       | Сфера (Scope)                                                                                                 |
+| -------- | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| AdalFlow | [Discord](https://discord.gg/ezzszrRZvT) | Інженерія LLM, авто-підказки (auto-prompts) і обговорення/контриб’юції AdalFlow (discussions & contributions) |
+
+# Як долучитися (Contributing)
+
+Лише завдяки силі спільноти (power of the **community**) ми зможемо тримати репозиторій актуальним (up-to-date) та релевантним (relevant). Якщо маєте пропозиції, відкривайте issue або надсилайте pull request (PR).
+
+Деякі PR я залишатиму відкритими, якщо не впевнений(а), що це «миттєво підходить» (instant **fit**) — можете проголосувати за них, поставивши 👍.
+
+Завдяки спільноті цей репозиторій читає дедалі більше людей щодня.
+
+[![Star History Chart](https://api.star-history.com/svg?repos=SylphAI-Inc/LLM-engineer-handbook\&type=Date)](https://star-history.com/#SylphAI-Inc/LLM-engineer-handbook&Date)
+
+---
+
+🤝 Поділіться, будь ласка, щоб ми могли й надалі інвестувати час і зробити його головним ресурсом (go-to **resource**) для інженерів LLM — і початківців, і тих, хто хоче залишатися в тренді (stay **updated**).
+
+[![Поділитися в X](https://img.shields.io/badge/Share_on-Twitter-1DA1F2?logo=twitter\&logoColor=white)](https://twitter.com/intent/tweet?text=Check+out+this+awesome+repository+for+LLM+engineers!&url=https://github.com/LLM-engineer-handbook)
+[![Поділитися в LinkedIn](https://img.shields.io/badge/Share_on-LinkedIn-0077B5?logo=linkedin\&logoColor=white)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/LLM-engineer-handbook)
+
+---
+
+Якщо маєте питання щодо цієї «опінійованої» (opinionated) підбірки, не вагайтеся написати [Li Yin](https://www.linkedin.com/in/li-yin-ai).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<details>
+  <summary>Натисни, щоб побачити спойлер</summary>
+
+  Тут прихований текст, який буде видно тільки після розгортання.
+  
+  Можна навіть кілька абзаців.
+</details>
