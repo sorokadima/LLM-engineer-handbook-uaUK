@@ -312,16 +312,7 @@
 
 [![Star History Chart](https://api.star-history.com/svg?repos=SylphAI-Inc/LLM-engineer-handbook\&type=Date)](https://star-history.com/#SylphAI-Inc/LLM-engineer-handbook&Date)
 
----
 
-🤝 Поділіться, будь ласка, щоб ми могли й надалі інвестувати час і зробити його головним ресурсом (go-to **resource**) для інженерів LLM — і початківців, і тих, хто хоче залишатися в тренді (stay **updated**).
-
-[![Поділитися в X](https://img.shields.io/badge/Share_on-Twitter-1DA1F2?logo=twitter\&logoColor=white)](https://twitter.com/intent/tweet?text=Check+out+this+awesome+repository+for+LLM+engineers!&url=https://github.com/LLM-engineer-handbook)
-[![Поділитися в LinkedIn](https://img.shields.io/badge/Share_on-LinkedIn-0077B5?logo=linkedin\&logoColor=white)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/LLM-engineer-handbook)
-
----
-
-Якщо маєте питання щодо цієї «опінійованої» (opinionated) підбірки, не вагайтеся написати [Li Yin](https://www.linkedin.com/in/li-yin-ai).
 
 
 
